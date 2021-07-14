@@ -8,8 +8,9 @@ Requirements:\
     Python 3.5<\
     IMX 219 or system compatible camera\
     Buzzer/Speakers\
-    Linux 18/20\
-    
+    Linux 18/20.
+  
+![](https://github.com/kasiv008/Social_Distancing/blob/main/20210103_181411.jpg?raw=true)
     
 Download the Models [here](https://drive.google.com/drive/folders/1vASRhOe8j_COXHPyMdBPNqz3okN5HEC1?usp=sharing) and change accordingly in main.py. The standard implementation is on YOLOV3.
 
